@@ -2,11 +2,11 @@
 
 ## About
 
-```Group project```
+`Group project`
 
-```Python```
+`Python`
 
-```OOP```
+`OOP`
 
 ## Environment
 
