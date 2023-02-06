@@ -10,4 +10,4 @@
 
 ## Environment
 
-[Ubuntu](https://ubuntu.com/) [GNU Bash](https://www.gnu.org/software/bash/)
+![Ubuntu](https://ubuntu.com/)  
