@@ -54,6 +54,4 @@ Documented commands (type help <topic>):
 EOF  help  quit
 (hbnb) 
 $
-```
-#### Visual Representation
-![diagram](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230206T165641Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2ccdb30a636aefe2c36fec512b53701f3b05f93aaf7c1e7134afc598e81a0418) 
+``` 
