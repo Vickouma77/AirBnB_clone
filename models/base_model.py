@@ -1,9 +1,8 @@
 #!/usr/bin/python3
 """defines the BaseModel class"""
 
-import datetime
-import uuid
-import string
+from datetime import datetime
+from uuid import uuid4
 
 
 class BaseModel:
@@ -16,3 +15,8 @@ class BaseModel:
             *args: not used.
             **kwargs(dict): key/value pairs of attributes.
         """
+
+        form_t = %Y-%m-%dT%H:%M:%S.%f
+        self.id = str(uuid4())
+        self.created_at = datetime.today()
+        self.updated_at = datetime.todat()
