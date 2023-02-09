@@ -28,7 +28,6 @@ class BaseModel:
                 else:
                     self.__dict__[key] = value
 
-
     def save(self):
         """updates the public instance attribute updated_at
            with the current datetime"""
@@ -40,5 +39,10 @@ class BaseModel:
            new_dict = self.__dict__.copy()
            new_dict["created_at"] = self.created_at.isoformat()
            new_dict["updated_at"] = self.updated_at.isoformat()
-           new_dict["__class__"] = self.__class__name
+           new_dict["__class__"] = self.__class__name__
            return new_dict
+
+    def __str__(self):
+        """should print: [<class name>] (<self.id>) <self.__dict__>"""
+        clname = self.__class__.__name__
+        return "[{}] ({}) {}".format(clname, self.id, self.__dict__)
