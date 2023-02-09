@@ -16,7 +16,7 @@ class BaseModel:
             **kwargs(dict): key/value pairs of attributes.
         """
 
-        form_t = %Y-%m-%dT%H:%M:%S.%f
+        form_t = "%Y-%m-%dT%H:%M:%S.%f"
         self.id = str(uuid4())
         self.created_at = datetime.today()
         self.updated_at = datetime.todat()
