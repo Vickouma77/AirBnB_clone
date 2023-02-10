@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """Define the file storage class"""
+import json
+from models.base_model import BaseModel
 
 class FileStorage:
     """Represent an abstracted storage engine.
