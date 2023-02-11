@@ -3,4 +3,10 @@
 
 
 class State(BaseModel):
-    """State class"""
+    """State class.
+
+    Attributes:
+           name(str): name of the state
+    """
+
+    name = ""
