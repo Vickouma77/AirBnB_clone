@@ -2,7 +2,7 @@
 """Defines the user class"""
 
 
-class User:
+class User(BaseModel):
     """Represent a User.
 
     Attributes:
