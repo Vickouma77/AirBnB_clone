@@ -6,6 +6,7 @@ from models.user import user
 from models.state import state
 from models.city import city
 from models.amenity import amenity
+from models.place import place
 
 
 class FileStorage:
