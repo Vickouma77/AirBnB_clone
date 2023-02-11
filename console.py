@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defines HBnB console"""
+"""Defines the HBnB console."""
 import cmd
 import re
 from shlex import split
@@ -28,7 +28,7 @@ def parse(arg):
         lexer = split(arg[:curly_braces.span()[0]])
         retl = [i.strip(",") for i in lexer]
         retl.append(curly_braces.group())
-        return
+        return retl
 
 
 class HBNBCommand(cmd.Cmd):
