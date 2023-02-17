@@ -16,3 +16,9 @@ This project is a user interface design for the AirBnB website, implemented usin
 
 ## Environment
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="VS Code logo" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim logo" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git logo" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub logo" width="40" height="40">
+
+### Setup
+To view the project, simply open the index.html file in a web browser.
+
+### Credits
+This project was created by VICK OUMA as a part of ALX-HOLBERTON. Special thanks to the `INTERNET` for guidance and support in implementing ARIA attributes to ensure accessibility.
