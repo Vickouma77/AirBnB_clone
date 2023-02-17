@@ -21,4 +21,4 @@ This project is a user interface design for the AirBnB website, implemented usin
 To view the project, simply open the index.html file in a web browser.
 
 ## Credits
-This project was created by VICK OUMA as a part of ALX-HOLBERTON. Special thanks to the `INTERNET` for guidance and support in implementing ARIA attributes to ensure accessibility.
+This project was created by VICK OUMA as a part of ALX-HOLBERTON, AirBnB Console project . Special thanks to the `INTERNET` for guidance and support in implementing ARIA attributes to ensure accessibility.
