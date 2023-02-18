@@ -5,3 +5,9 @@ header {
     bottom: 1px solid #cccccc;
 
 }
+
+.logo {
+	width: 144px;
+	height: 62px;
+	background: url("images/logo.png") no-repeat center)
+}
