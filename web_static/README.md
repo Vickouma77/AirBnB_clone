@@ -3,12 +3,17 @@ This project is a user interface design for the AirBnB website, implemented usin
 
 # Features
 ```
-    Responsive design that works well on desktop and mobile devices
-    Header section with navigation links, search bar, and login button
-    Banner section with background image and search form
-    Explore section with popular destinations, search filters, and sorting options
-    Live Anywhere section with various accommodation types and corresponding images
-    Footer section with links to various pages and social media accounts
+    > Responsive design that works well on desktop and mobile devices
+
+    > Header section with navigation links, search bar, and login button
+
+    > Banner section with background image and search form
+
+    > Explore section with popular destinations, search filters, and sorting options
+
+    > Live Anywhere section with various accommodation types and corresponding images
+
+    > Footer section with links to various pages and social media accounts
 ```
 
 ## Tools Used
